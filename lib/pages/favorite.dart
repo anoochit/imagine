@@ -11,10 +11,10 @@ class _FavoritePageState extends State<FavoritePage> {
   @override
   Widget build(BuildContext context) {
     return ScaffoldPage.scrollable(
-      header: PageHeader(
-        title: const Text('Favorite'),
+      header: const PageHeader(
+        title: Text('Favorite'),
       ),
-      children: [],
+      children: const [],
     );
   }
 }

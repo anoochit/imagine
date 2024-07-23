@@ -12,10 +12,10 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return ScaffoldPage.scrollable(
-      header: PageHeader(
-        title: const Text('Home'),
+      header: const PageHeader(
+        title: Text('Home'),
       ),
-      children: [],
+      children: const [],
     );
   }
 }
