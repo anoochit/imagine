@@ -1,6 +1,6 @@
 # Imagine
 
-Build a boilerplate Windows App, Fluent UI with Flutter.
+A boilerplate Windows App, Fluent UI for Flutter.
 
 ## Change icon launcher
 
