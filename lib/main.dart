@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
     return FluentApp(
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
-      themeMode: ThemeMode.system,
+      themeMode: ThemeMode.light,
       theme: FluentThemeData(
         brightness: Brightness.light,
         // accentColor: Colors.blue,
